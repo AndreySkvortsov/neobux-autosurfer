@@ -7,10 +7,7 @@ package org.avs.autosurfer.view;
  * @author Andrey Skvortsov
  * 
  */
-
 public interface ExitListener
 {
-
 	public void exitPerformed();
-
 }

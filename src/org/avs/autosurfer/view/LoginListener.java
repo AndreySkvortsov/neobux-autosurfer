@@ -7,10 +7,7 @@ package org.avs.autosurfer.view;
  * @author Andrey Skvortsov
  * 
  */
-
 public interface LoginListener
 {
-	
 	public void loginPerformed(LoginFormEvent event);
-
 }
